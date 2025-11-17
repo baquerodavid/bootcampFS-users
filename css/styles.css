@@ -196,3 +196,69 @@ img {
 p {
   line-height: normal;
 }
+
+/* 👇 CODIGO DE LA LIVE REVIEW EMPIEZA DESDE AQUÍ 👇 */
+/*
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e4e4e4;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  list-style: none;
+
+}
+
+li {
+  width: 400px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding: 12px;
+  background-color: white;
+
+}
+
+.user-content {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+
+}
+
+.user-info {
+  width: 70%;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  margin-bottom: 10px;
+
+}
+
+.user-info h2 {
+  font-size: 20px;
+}
+
+.user-image {
+  width: 100px;
+}
+
+.user-image img {
+  width: 100%;
+}
+*/
